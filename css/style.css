@@ -1,9 +1,17 @@
 .icon-boot {
     padding: 20px;
 }
-.icon-boot img{
+
+.icon-boot img {
     width: 20px;
 }
-.navbar-nav{
-  margin: auto;
+
+.navbar-nav {
+    margin: auto;
+}
+
+.carrosel-boot {
+    margin: auto;
+    width: 1200px;
+    margin-top: 20px;
 }
